@@ -1,3 +1,8 @@
+'''
+@Author: Matheus Barros
+Date: 02/15/2021
+
+'''
 from datetime import datetime
 
 class BetterDate:
